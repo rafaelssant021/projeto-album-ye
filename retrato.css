@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(#6E829B, #000000);
+}
+.ft{
+    display: none;
+}
+.ft2{
+    display: none;
+}

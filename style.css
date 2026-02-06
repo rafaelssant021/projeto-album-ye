@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+@font-face{
+    font-family: 'Kindergarten';
+    src: url('fonts/Kindergarten.ttf') format('truetype');
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    width: 100%;
+}
+body{
+    width: 100vw;
+    min-height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 40px 20px;
+    text-align: center;
+    overflow-x: hidden;
+}
+h1{
+    color: #43D969;
+    font-family: 'Kindergarten', sans-serif;
+}
+img{
+    display: block;
+    max-width: 90%;
+    max-height: 80vh;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.txt{
+    text-align: center;
+    line-height: 1.2;
+}
+h2{
+    color: #43D969;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: white;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: #43D969;
+    font-family: 'Kindergarten', sans-serif;
+    font-size: 20px;
+}
