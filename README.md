@@ -1,1 +1,21 @@
-Projeto feito de html e css onde testei formas de adaptação para usuarios de telas pequenas e grandes como pc e smartphone, alterando as imagens de acordo com o tamanho de tela
+Projeto Álbum YE
+
+Projeto front-end inspirado na apresentação visual de um álbum musical, com foco em layout, estilização e organização visual.
+
+Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+Objetivo
+
+Praticar criação de layout temático, organização de elementos visuais e estilização personalizada.
+
+O que aprendi
+
+- Estruturação semântica com HTML
+- Organização de layout com CSS
+- Trabalhar identidade visual em um projeto
+- Melhoria na organização de código
+
+Projeto desenvolvido para prática e evolução em Desenvolvimento Web.
